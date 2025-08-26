@@ -1,0 +1,1 @@
+/home/mxkcpy/zettelkasten/Projects/Homelab.md
